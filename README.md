@@ -8,7 +8,7 @@
 </h1>
 
 
-- 💻 I’m currently building my projects on Python and Javascript.
+- 💻 I’m currently building my projects with NodeJs and React.
 - 🔎 I’m currently learning C and Typescript.
 - 😄 Fun fact: I do sneeze loudly.
 - 💬 Don't forget: “It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.”
