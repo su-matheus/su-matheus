@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!&center=true&width=380&height=45">
 </p>
 
----
 
 <h2 align="center">
     Matheus here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -12,8 +11,8 @@
     I'm computer science student in love with this tech world and enthusiast of DevSecOps and Web 3 .
 </p>
 
-- 🔭 I’m currently building my projects on Python and Javascript.
-- 🌱 I’m currently learning C and Typescript.
+- 💻 I’m currently building my projects on Python and Javascript.
+- 🔎 I’m currently learning C and Typescript.
 - 😄 Fun fact: I do sneeze loudly.
 - 💬 Don't forget: “It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.”
 
@@ -57,7 +56,6 @@
     </a>
 </p>
 
-<br/>
 
 ## 📊 Github stats:
 
@@ -75,9 +73,8 @@
     </a>
 </div>
 
-<br/>
 
-## 🤝 Let's connect:
+## 🤝 Where to find me:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matheus-f-602551158/" alt="Linkedin" target="_blank">
