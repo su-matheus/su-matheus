@@ -3,13 +3,10 @@
 </p>
 
 
-<h2 align="center">
+<h1 align="center">
     Matheus here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h2>
+</h1>
 
-<p align="center">
-    I'm computer science student in love with this tech world and enthusiast of DevSecOps and Web 3 .
-</p>
 
 - 💻 I’m currently building my projects on Python and Javascript.
 - 🔎 I’m currently learning C and Typescript.
@@ -84,4 +81,3 @@
     <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheus.reirasi@gmail.com">
     </a>
 </p>
-
