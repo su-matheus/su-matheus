@@ -33,6 +33,7 @@
     <a href="https://nodejs.org" alt="NodeJs" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40"/>
     </a>
+    <img src="https://camo.githubusercontent.com/53545009f2b8643a3315490d99941d924e108dc8a4ea21bf835f5f0b7c0e54da/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d69636f6e2e737667" width="40"/>
     <a href= "https://www.mongodb.com/"alt="MongoDb" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
     </a>
@@ -51,6 +52,7 @@
     <a href="https://git-scm.com/" alt="Git" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
     </a>
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
 </p>
 
 
