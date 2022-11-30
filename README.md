@@ -9,7 +9,7 @@
 
 
 - 💻 I’m currently building my projects with NodeJs and React.
-- 🔎 I’m currently learning C and Typescript.
+- 🔎 I’m currently learning Typescript.
 - 😄 Fun fact: I do sneeze loudly.
 - 💬 Don't forget: “It's not about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward.”
 
@@ -27,15 +27,17 @@
     <a href="https://www.typescriptlang.org" alt="TypeScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
     </a>
-    <a href="http://linguagemc.com.br/" alt="Linguagem C" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="40"/>
-    </a>
     <a href="https://nodejs.org" alt="NodeJs" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40"/>
     </a>
+    <a href="https://www.postgresql.org/" alt="Postgresql" target="_blank">
     <img src="https://camo.githubusercontent.com/53545009f2b8643a3315490d99941d924e108dc8a4ea21bf835f5f0b7c0e54da/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d69636f6e2e737667" width="40"/>
-    <a href= "https://www.mongodb.com/"alt="MongoDb" target="_blank">
+    <a/>
+    <a href= "https://www.mongodb.com/" alt="MongoDb" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+    </a>
+    <a href="https://www.postman.com" alt="Postman" target="_blank">
+    <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="40"/>
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
