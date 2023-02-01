@@ -85,3 +85,5 @@
     <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheus.reirasi@gmail.com">
     </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
