@@ -78,7 +78,7 @@
 ## 🤝 Where to find me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/matheus-f-602551158/" alt="Linkedin" target="_blank">
+    <a href="https://www.linkedin.com/in/matheus-reirasi/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/matheus-f-602551158/"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheus.reirasi@gmail.com" alt="Email" target="_blank">
