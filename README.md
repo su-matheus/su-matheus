@@ -22,15 +22,15 @@
 
 <p align="center">
     <a href="https://github.com/su-matheus/su-matheus.git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusreirasi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus streak" src="https://github-readme-streak-stats.herokuapp.com/?user=su-matheus&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <div align="center">
     <a href="https://github.com/su-matheus/su-matheus.git">
-        <img alt="Matheus Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusreirasi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="Matheus Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=su-matheus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <a href="https://github.com/su-matheus/su-matheus.git">
-        <img alt="Matheus Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusreirasi&langs_count=7&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="Matheus Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-matheus&langs_count=7&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </div>
 
